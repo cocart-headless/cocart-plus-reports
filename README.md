@@ -18,14 +18,13 @@ Here are a few other resources you may find helpful.
 * **[CoCart Product Support Boilerplate](https://github.com/co-cart/cocart-product-support-boilerplate)** provides a basic boilerplate for supporting a different product type to add to the cart with validation including adding your own parameters.
 * **[CoCart Cart Callback Example](https://github.com/co-cart/cocart-cart-callback-example)** provides you an example of registering a callback that can be triggered when updating the cart.
 * **[CoCart Tweaks](https://github.com/co-cart/co-cart-tweaks)** provides a starting point for developers to tweak CoCart to their needs.
-* **[Node.js Library](https://www.npmjs.com/package/@cocart/cocart-rest-api)** provides a JavaScript wrapper supporting CommonJS (CJS) and ECMAScript Modules (ESM).
 
 ## Support
 
 This repository is not for asking support. Support requests will be closed automatically if found. Support can take place through the appropriate channels:
 
 * [Our community forum on wp.org](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) which is available for all CoCart users.
-* [Our community Slack chat room](https://cocart.xyz/community/?utm_medium=gh&utm_source=github&utm_campaign=readme&utm_content=cocart) on the **#support** channel.
+* [Our community Discord chat room](https://cocart.xyz/community/?utm_medium=gh&utm_source=github&utm_campaign=readme&utm_content=cocart) on the **#support** channel.
 * [Our community group on Facebook](https://www.facebook.com/groups/cocart/)
 * [Our community on Reddit](https://www.reddit.com/r/cocartheadless/)
 
