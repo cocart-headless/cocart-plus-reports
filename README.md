@@ -1,12 +1,12 @@
-# Welcome to CoCart Pro Bug Reports
+# Welcome to CoCart Plus Bug Reports
 
-This repository is for reporting bugs in CoCart Pro.
+This repository is for reporting bugs in CoCart Plus.
 
-Issues will be labelled accordingly and re-organised if found to be related to a specific part of CoCart that is not developed in CoCart Pro.
+Issues will be labelled accordingly and re-organized if found to be related to a specific part of CoCart that is not developed in CoCart Plus.
 
 We recommend all developers to follow the [CoCart development blog](https://cocart.dev/?utm_medium=github.com&utm_source=repository&utm_campaign=readme&utm_content=cocart) to stay up to date about everything happening in the project. You can also [follow @cocartapi](https://twitter.com/cocartapi) on Twitter for the latest development updates.
 
-If you are looking for documentation for CoCart Pro, head over here: [https://docs.cocart.xyz/pro.html](https://docs.cocart.xyz/pro.html?utm_medium=github.com&utm_source=repository&utm_campaign=readme&utm_content=cocart)
+If you are looking for documentation for CoCart Plus, head over here: [https://docs.cocart.xyz/pro.html](https://docs.cocart.xyz/pro.html?utm_medium=github.com&utm_source=repository&utm_campaign=readme&utm_content=cocart)
 
 ## For Developers
 
@@ -17,14 +17,13 @@ Here are a few other resources you may find helpful.
 * **[CoCart Carts in Session](https://github.com/co-cart/cocart-carts-in-session)** allows you to view all the carts in session via the WordPress admin.
 * **[CoCart Product Support Boilerplate](https://github.com/co-cart/cocart-product-support-boilerplate)** provides a basic boilerplate for supporting a different product type to add to the cart with validation including adding your own parameters.
 * **[CoCart Cart Callback Example](https://github.com/co-cart/cocart-cart-callback-example)** provides you an example of registering a callback that can be triggered when updating the cart.
-* **[CoCart Tweaks](https://github.com/co-cart/co-cart-tweaks)** provides a starting point for developers to tweak CoCart to their needs.
 
 ## Support
 
 This repository is not for asking support. Support requests will be closed automatically if found. Support can take place through the appropriate channels:
 
 * [Our community forum on wp.org](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) which is available for all CoCart users.
-* [Our community Discord chat room](https://cocart.xyz/community/?utm_medium=gh&utm_source=github&utm_campaign=readme&utm_content=cocart) on the **#support** channel.
+* [Our community Discord chat room](https://cocartapi.com/community/?utm_medium=gh&utm_source=github&utm_campaign=readme&utm_content=cocart) on the **#support** channel.
 * [Our community group on Facebook](https://www.facebook.com/groups/cocart/)
 * [Our community on Reddit](https://www.reddit.com/r/cocartheadless/)
 
@@ -32,7 +31,7 @@ This repository is not for asking support. Support requests will be closed autom
 
 ## Credits
 
-CoCart Pro is developed and maintained by [Sébastien Dumont](https://github.com/seb86).
+CoCart Plus is developed and maintained by [Sébastien Dumont](https://github.com/seb86).
 
 Founder of CoCart - [Sébastien Dumont](https://github.com/seb86).
 
